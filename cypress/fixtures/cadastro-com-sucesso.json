@@ -1,0 +1,9 @@
+{
+  "user":{
+      "email":"fernandinho.eduardosss@gmail.com",
+      "username":"engfernandinhoss",
+      "bio":null,
+      "image":"https://realworld-temp-api.herokuapp.com/images/smiley-cyrus.jpeg",
+      "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImZlcm5hbmRpbmhvLmVkdWFyZG9AZ21haWwuY29tIiwidXNlcm5hbWUiOiJlbmdmZXJuYW5kaW5obyIsImJpbyI6bnVsbCwiaW1hZ2UiOiJodHRwczovL3JlYWx3b3JsZC10ZW1wLWFwaS5oZXJva3VhcHAuY29tL2ltYWdlcy9zbWlsZXktY3lydXMuanBlZyIsImlhdCI6MTYzNDY5MTA0MiwiZXhwIjoxNjM5ODc1MDQyfQ.ArzzT6Gc5gLS6cp9YFDyuFi7yEO7YO9IfK7fHMBPlWo"
+ }
+}
