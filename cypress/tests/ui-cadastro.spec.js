@@ -1,7 +1,7 @@
 /// <reference types="cypress"  />
 
 describe('Cadastro', () => {
-  it('Cadastro com  sucesso', () => {
+  it.only('Cadastro com  sucesso', () => {
     cy.intercept({
       // https://api.realworld.io/api/users
 
@@ -15,8 +15,8 @@ describe('Cadastro', () => {
     }).as('postUsers')
 
     cy.visit('register')
-    cy.get('[placeholder=Username]').type('ChapterV')
-    cy.get('[placeholder=Email]').type('ChapterV@mail.com')
+    cy.get('[placeholder=Username]').type('ChapterVII')
+    cy.get('[placeholder=Email]').type('ChapterVII@mail.com')
     cy.get('[placeholder=Password]').type('123456')
 
     cy.get('button.btn-primary').click()
